@@ -9,7 +9,7 @@
 </head>
 <body>
 
-    <h1 id="titulo-clinica">Clínica Vida Saudável</h1>
+    <h1 id="titulo-clinica">Clínica bem estar</h1>
 
     <p class="bemvindo">
         Bem-vindo à Clínica Bem estar! Dedicamos nossos esforços para oferecer um atendimento humanizado, 
